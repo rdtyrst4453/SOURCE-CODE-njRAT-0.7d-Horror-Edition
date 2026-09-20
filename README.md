@@ -94,3 +94,5 @@ Please avoid contributions intended to facilitate unauthorized access, credentia
 No explicit license is provided unless a valid license file is included in this repository.
 
 Please review the repository contents and original project documentation before redistributing or modifying the source code.
+
+**Language:** Visual Basic .NET (VB.NET)
